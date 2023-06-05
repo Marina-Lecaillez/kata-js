@@ -1,2 +1,1 @@
 # kata-js
-tt
